@@ -2,6 +2,25 @@
 
 Hello, @thetealpickle here, and welcome to @thetealpickle Universe (on GitHub) 😜!<br><br>
 
+## @thetealpickle human
+An iOS and Swift engineer with 7+ years of experience.<br>
+
+#### In the beginning
+Her journey started the fall of her undergrad study at New York University after attended the tech conference, DroidCon NYC.
+Switching her major from mechanical engineering to computer engineering she formally started her career.
+
+#### Experimentation
+Within the span of her first year, she travelled the globe participating in 24+ in-person hackathons, winning a few 🥸.<br>
+She experimented with new technologies every weekend eventually leading to her realized concentration of mobile first solution.<br>
+Projects from this time in her life can be found on <a href="https://devpost.com/thetealpickle">Devpost</a><br>
+
+#### Experience
+She has worked in an engineering capacity with Clarifai, Bitly, Lyft, and This Also.<br>
+In addition, engineering proof of concept (POC) iOS applications for up and coming entrepreneurs.<br>
+
+Her experience also spans into teaching engineering, previously working with Girls Who Code and NYU's Department for K12 STEM Education.<br>
+
+
 ## Products 📱🔨 
 In this section you'll find products @thetealpickle has published to the App Store.<br>
 These products are implemented with Swift across the stack (yes, backend too 🥴), ordered by most recent public launch.
@@ -52,25 +71,6 @@ Logo Designer @thetealpickle<br>
 #### - Business
 Entrepreneur @thetealpickle<br> 
 
-
-
-## @thetealpickle human
-An iOS and Swift engineer with 7+ years of experience.<br>
-
-#### In the beginning
-Her journey started the fall of her undergrad study at New York University after attended the tech conference, DroidCon NYC.
-Switching her major from mechanical engineering to computer engineering she formally started her career.
-
-#### Experimentation
-Within the span of her first year, she travelled the globe participating in 24+ in-person hackathons, winning a few 🥸.<br>
-She experimented with new technologies every weekend eventually leading to her realized concentration of mobile first solution.<br>
-Projects from this time in her life can be found on <a href="https://devpost.com/thetealpickle">Devpost</a><br>
-
-#### Experience
-She has worked in an engineering capacity with Clarifai, Bitly, Lyft, and This Also.<br>
-In addition, engineering proof of concept (POC) iOS applications for up and coming entrepreneurs.<br>
-
-Her experience also spans into teaching engineering, previously working with Girls Who Code and NYU's Department for K12 STEM Education.<br>
 
 
 <!--

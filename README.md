@@ -1,9 +1,14 @@
+<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" />
+
+
 # Beautiful Day ☀️ 
 
 Hello, @thetealpickle here, and welcome to @thetealpickle Universe (on GitHub) 😜!<br><br>
 
 ## @thetealpickle human
-An iOS and Swift engineer with 7+ years of experience.<br>
+A Senior iOS and Backend engineer with 9+ years of experience.<br>
+
+reachable by email - jessica@thetealpickle.com
 
 #### In the beginning
 Her journey started the fall of her undergrad study at New York University after attended the tech conference, DroidCon NYC.
@@ -15,7 +20,7 @@ She experimented with new technologies every weekend eventually leading to her r
 Projects from this time in her life can be found on <a href="https://devpost.com/thetealpickle">Devpost</a><br>
 
 #### Experience
-She has worked in an engineering capacity with Clarifai, Bitly, Lyft, and This Also.<br>
+She has worked in an engineering capacity with lululemon, Clarifai, Bitly, Lyft, and This Also.<br>
 In addition, engineering proof of concept (POC) iOS applications for up and coming entrepreneurs.<br>
 
 Her experience also spans into teaching engineering, previously working with Girls Who Code and NYU's Department for K12 STEM Education.<br>

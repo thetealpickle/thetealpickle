@@ -28,14 +28,31 @@ Her experience also spans into teaching engineering, previously working with Gir
 
 ## Products 📱🔨 
 In this section you'll find products @thetealpickle has published to the App Store.<br>
-These products are implemented with Swift across the stack (yes, backend too 🥴), ordered by most recent public launch.
+These products are implemented with Swift across the stack (yes, backend too 🥴).
 
 #### Index
 <ul>
- <li>CRAZY REPEAT</li>
   <li>THETEALPICKLE</li>
+  <li>CRAZY REPEAT</li>
 </ul><br><br>
-  
+
+
+### THETEALPICKLE  
+#### the ultimate tool for your mobile engineering career
+<div>
+<img src="https://github.com/thetealpickle/thetealpickle/assets/10859803/9dd15cf0-74a5-4626-be08-54661257f70e" width="22%"/>
+<img src="https://github.com/thetealpickle/thetealpickle/assets/10859803/0e074a60-a85a-4a07-8df3-59bdae25f4a8" width="22%"/>
+<img src="https://github.com/thetealpickle/thetealpickle/assets/10859803/e874b2d4-6d86-4c1b-a144-6d6387547b3d" width="22%"/>
+<img src="https://github.com/thetealpickle/thetealpickle/assets/10859803/a11a78d6-48e4-43d7-9cc2-e49976032e52" width="22%"/>
+</div>
+
+<a href="https://thetealpickle.com">Website</a><br><br>
+<a href="https://apps.apple.com/us/app/thetealpickle/id1478766318?ls=1">Download on the App Store</a><br><br>
+
+
+ ### CRAZY REPEAT  
+ #### your personal shareable dictionary at the tip of your keyboard 
+
 <div>
 <img src="https://user-images.githubusercontent.com/10859803/111070608-e79b0300-84a8-11eb-8055-5892a65dd988.png" width="22%"/>
 <img src="https://user-images.githubusercontent.com/10859803/111070557-a86cb200-84a8-11eb-8f7f-698bc7a43a78.png" width="22%"/>
@@ -44,24 +61,9 @@ These products are implemented with Swift across the stack (yes, backend too �
 
 </div>
 
-### CRAZY REPEAT  
-your personal shareable dictionary at the tip of your keyboard 
-
 <a href="https://crazyrepeat.com">Website</a><br><br>
 <a href="https://apps.apple.com/us/app/crazy-repeat/id1476049878">Download on the App Store</a><br><br>
 
-<div>
-<img src="https://user-images.githubusercontent.com/10859803/111070324-a7875080-84a7-11eb-9a60-649c73fee824.png" width="22%"/>
-<img src="https://user-images.githubusercontent.com/10859803/111070326-a8b87d80-84a7-11eb-9cd3-f363020ccdf9.png" width="22%"/>
-<img src="https://user-images.githubusercontent.com/10859803/111070322-a5bd8d00-84a7-11eb-964c-66c33f2e0738.png" width="22%"/>
-</div>
-
-### THETEALPICKLE app 
-the ultimate tool for your mobile engineering career
-
-
-<a href="https://thetealpickle.com">Website</a><br><br>
-<a href="https://apps.apple.com/us/app/thetealpickle/id1478766318?ls=1">Download on the App Store</a><br><br>
 
 ### The proper product acknowledgments are as followed:
 #### - Engineering
